@@ -17,7 +17,7 @@ function Login() {
               <label for="login-password">Password</label>
               <input type="password" id="login-password" />
             </div>
-            <Link to="/app">
+            <Link to="/dashboard">
               <button type="submit" className="btn-login">Login</button>
             </Link>
           </form>
