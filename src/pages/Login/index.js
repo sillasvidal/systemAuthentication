@@ -23,7 +23,7 @@ function Login() {
           </form>
         </div>
         <Link to="/cadastro">
-          <a>Não possui uma conta? Cadastre-se</a>
+          <a href="#">Não possui uma conta? Cadastre-se</a>
         </Link>
       </section>
     </div>
